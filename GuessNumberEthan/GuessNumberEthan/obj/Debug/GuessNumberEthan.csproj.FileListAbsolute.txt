@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\bin\Debug\GuessNumberEthan.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\bin\Debug\GuessNumberEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\bin\Debug\GuessNumberEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.frmGuessNumber.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.pdb
