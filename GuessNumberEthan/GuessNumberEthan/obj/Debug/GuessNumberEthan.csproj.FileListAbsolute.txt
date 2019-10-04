@@ -8,3 +8,13 @@ C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEt
 C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.csproj.CoreCompileInputs.cache
 C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.exe
 C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\bin\Debug\GuessNumberEthan.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\bin\Debug\GuessNumberEthan.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\bin\Debug\GuessNumberEthan.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.frmGuessNumber.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\GuessNumberEthan\GuessNumberEthan\obj\Debug\GuessNumberEthan.pdb

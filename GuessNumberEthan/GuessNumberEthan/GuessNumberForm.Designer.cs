@@ -49,7 +49,7 @@
             // 
             this.lblClickText2.AutoSize = true;
             this.lblClickText2.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblClickText2.Location = new System.Drawing.Point(435, 206);
+            this.lblClickText2.Location = new System.Drawing.Point(249, 196);
             this.lblClickText2.Name = "lblClickText2";
             this.lblClickText2.Size = new System.Drawing.Size(51, 25);
             this.lblClickText2.TabIndex = 1;
