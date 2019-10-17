@@ -122,150 +122,64 @@ namespace RockPaperScissorsEthan
             }
 
             // 9 combinations for Rock Paper Scissors
-            if (playerChoice == ROCK)
+            if (playerChoice == computerChoice)
             {
-                this.lblDisplayText.Text = "Player Wins";
+                this.lblDisplayText.Text = "Tie!";
 
             }
             else if (computerChoice == ROCK)
             {
-                this.lblDisplayText.Text = "Tie!";
-
-            }
-            else
-            {
-                this.lblDisplayText.Text = "Computer Wins";
-
-            }
-
-            if (playerChoice == ROCK)
-            {
-                this.lblDisplayText.Text = "Computer Wins";
-
+                playerChoice = ROCK;
             }
             else if (computerChoice == PAPER)
             {
-                this.lblDisplayText.Text = "Player Wins";
-
-            }
-            else
-            {
-                this.lblDisplayText.Text = "Tie!";
-
-            }
-
-            if (playerChoice == ROCK)
-            {
-                this.lblDisplayText.Text = "Computer Wins";
-
+                playerChoice = PAPER;
             }
             else if (computerChoice == SCISSORS)
             {
-                this.lblDisplayText.Text = "Player Wins";
+                playerChoice = SCISSORS;
+            }
+            else if (playerChoice == SCISSORS)
+            {
+                this.lblDisplayText.Text = "Tie!";
+            }
+            else if (playerChoice != SCISSORS)
+            {
+                playerChoice = ROCK;
+            }
+            else if (playerChoice == ROCK)
+            {
+                this.lblDisplayText.Text = "User Wins!";
+            }
+            else if (playerChoice != ROCK)
+            {
+                this.lblDisplayText.Text = "Computer Wins!";
+            }
+            else if (playerChoice == PAPER)
+            {
+                this.lblDisplayText.Text = "Tie!";
+            }
+            else if (playerChoice == ROCK)
+            {
+                this.lblDisplayText.Text = "Computer Wins!";
+            }
+            else if (playerChoice != ROCK)
+            {
+                this.lblDisplayText.Text = "User Wins!";
+            }
 
+            else if (playerChoice == PAPER)
+            {
+                this.lblDisplayText.Text = "User Wins!";
+            }
+            else if (playerChoice == SCISSORS)
+            {
+                this.lblDisplayText.Text = "Computer Wins!";
             }
             else
             {
                 this.lblDisplayText.Text = "Tie!";
-
             }
-
-            if (playerChoice == PAPER)
-            {
-                this.lblDisplayText.Text = "Player Wins";
-
-            }
-            else if (computerChoice == ROCK)
-            {
-                this.lblDisplayText.Text = "Tie!";
-
-            }
-            else
-            {
-                this.lblDisplayText.Text = "Computer Wins";
-
-            }
-
-            if (playerChoice == PAPER)
-            {
-                this.lblDisplayText.Text = "Player Wins";
-
-            }
-            else if (computerChoice == PAPER)
-            {
-                this.lblDisplayText.Text = "Tie!";
-
-            }
-            else
-            {
-                this.lblDisplayText.Text = "Computer Wins";
-
-            }
-
-            if (playerChoice == PAPER)
-            {
-                this.lblDisplayText.Text = "Player Wins";
-
-            }
-            else if (computerChoice == SCISSORS)
-            {
-                this.lblDisplayText.Text = "Tie!";
-
-            }
-            else
-            {
-                this.lblDisplayText.Text = "Computer Wins";
-
-            }
-
-            if (playerChoice == SCISSORS)
-            {
-                this.lblDisplayText.Text = "Player Wins";
-
-            }
-            else if (computerChoice == ROCK)
-            {
-                this.lblDisplayText.Text = "Tie!";
-
-            }
-            else
-            {
-                this.lblDisplayText.Text = "Computer Wins";
-
-            }
-
-            if (playerChoice == SCISSORS)
-            {
-                this.lblDisplayText.Text = "Player Wins";
-
-            }
-            else if (computerChoice == PAPER)
-            {
-                this.lblDisplayText.Text = "Tie!";
-
-            }
-            else
-            {
-                this.lblDisplayText.Text = "Computer Wins";
-
-            }
-
-            if (playerChoice == SCISSORS)
-            {
-                this.lblDisplayText.Text = "Player Wins";
-
-            }
-            else if (computerChoice == SCISSORS)
-            {
-                this.lblDisplayText.Text = "Tie!";
-
-            }
-            else
-            {
-                this.lblDisplayText.Text = "Computer Wins";
-
-            }
-
         }
 
         private void LblDisplayText_Click(object sender, EventArgs e)
