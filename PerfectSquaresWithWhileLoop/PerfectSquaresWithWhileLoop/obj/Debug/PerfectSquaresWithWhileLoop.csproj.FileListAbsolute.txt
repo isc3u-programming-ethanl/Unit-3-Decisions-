@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\bin\Debug\PerfectSquaresWithWhileLoop.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\bin\Debug\PerfectSquaresWithWhileLoop.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\bin\Debug\PerfectSquaresWithWhileLoop.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\obj\Debug\PerfectSquaresWithWhileLoop.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\obj\Debug\PerfectSquaresWithWhileLoop.frmPerfectSquareWithLoopForm.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\obj\Debug\PerfectSquaresWithWhileLoop.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\obj\Debug\PerfectSquaresWithWhileLoop.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\obj\Debug\PerfectSquaresWithWhileLoop.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\obj\Debug\PerfectSquaresWithWhileLoop.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\PerfectSquaresWithWhileLoop\PerfectSquaresWithWhileLoop\obj\Debug\PerfectSquaresWithWhileLoop.pdb
