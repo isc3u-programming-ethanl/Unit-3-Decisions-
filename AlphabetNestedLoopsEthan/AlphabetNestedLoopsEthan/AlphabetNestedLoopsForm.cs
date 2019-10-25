@@ -3,7 +3,7 @@
  * Created on: 10/23/19
  * Created for: ICS3U Programming
  * Daily Assignment – Day #26 - Numbers Nested Loops
- * This program...
+ * This program converts numbers to letters
 */
 using System;
 using System.Collections.Generic;
