@@ -35,20 +35,26 @@ namespace runningAverageFormEthan
 
         private void BtnCalculate_Click(object sender, EventArgs e)
         {
+            // create local variables
             double nextNumber;
             double average;
             
-
+            // make the users input into a next number
             nextNumber = double.Parse(textBox1.Text);
 
+            // increment the number of numbers
             numberOfNumbers++;
 
+            // equation for sum
             sum = sum + nextNumber;
 
+            // equation for average
             average = sum / numberOfNumbers;
 
+           // convert the average to a string
             this.lblOutput.Text = Convert.ToString(average);
 
+            // if nextNumber is -1, program force closes itself
             if (nextNumber == -1)
             {
                 this.Close();
