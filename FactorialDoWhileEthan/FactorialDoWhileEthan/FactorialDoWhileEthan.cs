@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Ethan L
+ * Created on: 10/26/19
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #20 - Factorial Do While
+ * This program 
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -25,9 +32,9 @@ namespace FactorialDoWhileEthan
         private void BtnStart_Click(object sender, EventArgs e)
         {
             // declare local variables
-            double factorialAnswer;
-            double factorialNumber;
-            double factorialCounter;
+            Double factorialAnswer;
+            Double factorialNumber;
+            Double factorialCounter;
 
             // clear the items from the listbox
             this.lstFactorials.Items.Clear();
@@ -51,11 +58,11 @@ namespace FactorialDoWhileEthan
                 this.lstFactorials.Items.Add(factorialCounter);
 
                 // multiply the counter by the answer
-                factorialCounter = factorialCounter * factorialAnswer;
+                factorialCounter = factorialAnswer * factorialCounter;
 
-            } while (factorialCounter <= factorialNumber);
+            } while (factorialNumber != factorialCounter);
 
-            // conver the factorialAnswer to a String and insert it to the label
+            // convert the factorialAnswer to a String and insert it to the label
             this.lblAnswer.Text = this.txtInput.Text + "! = " + Convert.ToString(factorialAnswer);
         }
 

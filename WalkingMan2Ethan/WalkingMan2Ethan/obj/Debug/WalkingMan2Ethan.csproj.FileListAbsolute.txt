@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\bin\Debug\WalkingMan2Ethan.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\bin\Debug\WalkingMan2Ethan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\bin\Debug\WalkingMan2Ethan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\obj\Debug\WalkingMan2Ethan.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\obj\Debug\WalkingMan2Ethan.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\obj\Debug\WalkingMan2Ethan.frmWalkingMan2.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\obj\Debug\WalkingMan2Ethan.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\obj\Debug\WalkingMan2Ethan.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\obj\Debug\WalkingMan2Ethan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingMan2Ethan\WalkingMan2Ethan\obj\Debug\WalkingMan2Ethan.pdb

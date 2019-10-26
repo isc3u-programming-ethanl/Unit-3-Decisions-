@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\F
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\FactorialDoWhileEthan\FactorialDoWhileEthan\bin\Debug\FactorialDoWhileEthan.pdb
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\FactorialDoWhileEthan\FactorialDoWhileEthan\obj\Debug\FactorialDoWhileEthan.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\FactorialDoWhileEthan\FactorialDoWhileEthan\obj\Debug\FactorialDoWhileEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\bin\Debug\FactorialDoWhileEthan.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\bin\Debug\FactorialDoWhileEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\bin\Debug\FactorialDoWhileEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\obj\Debug\FactorialDoWhileEthan.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\obj\Debug\FactorialDoWhileEthan.frmFactorialDoWhile.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\obj\Debug\FactorialDoWhileEthan.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\obj\Debug\FactorialDoWhileEthan.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\obj\Debug\FactorialDoWhileEthan.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\obj\Debug\FactorialDoWhileEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\FactorialDoWhileEthan\FactorialDoWhileEthan\obj\Debug\FactorialDoWhileEthan.pdb

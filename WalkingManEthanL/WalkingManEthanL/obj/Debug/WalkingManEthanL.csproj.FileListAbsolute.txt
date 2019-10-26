@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\W
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\bin\Debug\WalkingManEthanL.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\bin\Debug\WalkingManEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\bin\Debug\WalkingManEthanL.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.frmWalkingMan.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\WalkingManEthanL\WalkingManEthanL\obj\Debug\WalkingManEthanL.pdb

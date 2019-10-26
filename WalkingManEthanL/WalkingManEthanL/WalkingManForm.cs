@@ -76,9 +76,9 @@ namespace WalkingManEthanL
                 {
                     this.picMan.Image = Properties.Resources.walk10;
                 }
-            }
+                pictureFrameCounter++;
 
-            pictureFrameCounter++;
+            }
 
             // refresh the form. This MUST be done, otherwise the picture won't get updated
             this.Refresh();
