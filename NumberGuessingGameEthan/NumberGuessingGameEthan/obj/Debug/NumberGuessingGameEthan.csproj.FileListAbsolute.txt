@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\bin\Debug\NumberGuessingGameEthan.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\bin\Debug\NumberGuessingGameEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\bin\Debug\NumberGuessingGameEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\obj\Debug\NumberGuessingGameEthan.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\obj\Debug\NumberGuessingGameEthan.frmNumberGuessingGame.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\obj\Debug\NumberGuessingGameEthan.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\obj\Debug\NumberGuessingGameEthan.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\obj\Debug\NumberGuessingGameEthan.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\obj\Debug\NumberGuessingGameEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\NumberGuessingGameEthan\NumberGuessingGameEthan\obj\Debug\NumberGuessingGameEthan.pdb
