@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\R
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\bin\Debug\RockPaperScissorsEthan.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\bin\Debug\RockPaperScissorsEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\bin\Debug\RockPaperScissorsEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.frmRockPaperScissors.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\RockPaperScissorsEthan\RockPaperScissorsEthan\obj\Debug\RockPaperScissorsEthan.pdb
