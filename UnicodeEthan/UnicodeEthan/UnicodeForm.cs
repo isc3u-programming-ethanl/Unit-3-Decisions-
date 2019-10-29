@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Ethan L
+ * Created on: 10/26/19
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #24 - Unicode
+ * This program displays all the capital letters from A-Z and their hexadecimal number.
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

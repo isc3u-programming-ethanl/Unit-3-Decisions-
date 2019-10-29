@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\U
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\bin\Debug\UnicodeEthan.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\bin\Debug\UnicodeEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\bin\Debug\UnicodeEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.frmUnicode.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\UnicodeEthan\UnicodeEthan\obj\Debug\UnicodeEthan.pdb

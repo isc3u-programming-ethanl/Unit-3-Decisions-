@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\A
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\bin\Debug\AlphabetNestedLoopsEthan.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\bin\Debug\AlphabetNestedLoopsEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\bin\Debug\AlphabetNestedLoopsEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.frmAlphabetNestedLoops.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\AlphabetNestedLoopsEthan\AlphabetNestedLoopsEthan\obj\Debug\AlphabetNestedLoopsEthan.pdb

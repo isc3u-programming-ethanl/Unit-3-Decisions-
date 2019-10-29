@@ -49,7 +49,7 @@ namespace FactorialDoWhileEthan
             factorialCounter = 0;
 
             // multiply the counter by the next incremented number until it reaches the user's number
-            do
+            do 
             {
                 // increment the counter by 1
                 factorialCounter++;
@@ -64,6 +64,8 @@ namespace FactorialDoWhileEthan
 
             // convert the factorialAnswer to a String and insert it to the label
             this.lblAnswer.Text = this.txtInput.Text + "! = " + Convert.ToString(factorialAnswer);
+
+            this.Refresh();
         }
 
         private void LstFactorials_SelectedIndexChanged(object sender, EventArgs e)

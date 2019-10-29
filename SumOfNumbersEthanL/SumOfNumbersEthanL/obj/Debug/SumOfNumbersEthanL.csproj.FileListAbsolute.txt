@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\S
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\bin\Debug\SumOfNumbersEthanL.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\bin\Debug\SumOfNumbersEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\bin\Debug\SumOfNumbersEthanL.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.frmSumOfNumbers.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\SumOfNumbersEthanL\SumOfNumbersEthanL\obj\Debug\SumOfNumbersEthanL.pdb
