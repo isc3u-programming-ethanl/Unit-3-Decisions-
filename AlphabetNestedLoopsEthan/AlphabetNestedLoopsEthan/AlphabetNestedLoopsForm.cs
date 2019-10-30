@@ -30,31 +30,28 @@ namespace AlphabetNestedLoopsEthan
             int letterValue;
             int lowerLetterValue;
 
-            string alphaValue;
-            string alphaValue2;
+            string letter;
+            string lowerLetter;
 
             // clear listbox
             this.lstNumbers.Items.Clear();
 
-                // make the letterValue to 65, increment it until its less than or equal to 90
-                for (letterValue = 65; letterValue <= 90; letterValue++)
+            // make the letterValue to 65, increment it until its less than or eSqual to 90
+            for (letterValue = 65; letterValue <= 90; letterValue++)
+            {
+                // make the alpha value into a hexadecimal
+                letter = Char.ConvertFromUtf32(letterValue);
+
+                // make the lowerLetterValue to 97, increment it until its less than or equal to 122
+                for (lowerLetterValue = 97; lowerLetterValue <= 122; lowerLetterValue++)
                 {
-                    // make the alpha value into a hexadecimal
-                    alphaValue = Char.ConvertFromUtf32(letterValue);
+                    // make the second alpha value into a hexadecimal
+                    lowerLetter = Char.ConvertFromUtf32(lowerLetterValue);
 
-                    this.lstNumbers.Items.Add(letterValue + " -> " + alphaValue);
-                }
-
-            // make the lowerLetterValue to 97, increment it until its less than or equal to 122
-            for (lowerLetterValue = 97; lowerLetterValue <= 122; lowerLetterValue++)
-                {
-                // make the second alpha value into a hexadecimal
-                alphaValue2 = Char.ConvertFromUtf32(lowerLetterValue);
-
-                this.lstNumbers.Items.Add(lowerLetterValue + " -> " + alphaValue2);
+                    this.lstNumbers.Items.Add(letter + " -> " + lowerLetter);
                 }
             }
-
+        }
         private void LstNumbers_SelectedIndexChanged(object sender, EventArgs e)
         {
 

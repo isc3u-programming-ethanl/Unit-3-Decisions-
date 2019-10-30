@@ -1,9 +1,10 @@
 ﻿/*
- * Created by: First Last
- * Created on: Day-Month-Year
+ * Created by: Ethan L
+ * Created on: 10/30/19
  * Created for: ICS3U Programming
  * Daily Assignment – Day #27 - Control Objects
- * This program...
+ * This program has a button that when clicked, will make the button green and the label green.
+ * When the label is clicked, it will turn the button red and make the label purple.
 */
 using System;
 using System.Collections.Generic;
@@ -26,6 +27,11 @@ namespace ControlObjects
 
         private void BtnColourChange_Click(object sender, EventArgs e)
         {
+            // loop through each object on the form and make it green
+            foreach (Control aControlObject in this.Controls)
+            {
+                aControlObject.BackColor = Color.Green;
+            }
 
         }
 
@@ -34,21 +40,18 @@ namespace ControlObjects
 
         }
 
-        // loop through each object on the form and make it green
-        foreach (Control aControlObject in this.Controls)
+        private void LblColourChange_Click(object sender, EventArgs e)
+        {
+            // loop through each object on the form and make it red
+            foreach (Control aControlObject in this.Controls)
             {
-                aControlObject.BackColor = Color.Green;
-private void LblColourChange_Click(object sender, EventArgs e)
-        {
-
+                aControlObject.BackColor = Color.Red;
+                // if the object is a label, make it purple
+                if (aControlObject.GetType() == typeof(Label))
+                {
+                    aControlObject.BackColor = Color.Purple;
+                }
+            }
         }
-    }
-
-        // if the object is a label, make it purple
-        if (aControlObject.GetType() == typeof (Label))
-        {
-            aControlObject.BackColor = Color.Purple;
-        }
-
     }
 }
