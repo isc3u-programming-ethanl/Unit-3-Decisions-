@@ -27,23 +27,31 @@ namespace AlphabetNestedLoopsEthan
         private void BtnStart_Click(object sender, EventArgs e)
         {
             // declare local variables
-            int firstNumber;
-            int secondNumber;
+            int letterValue;
+            int lowerLetterValue;
+
+            string letter;
+            string lowerLetter;
 
             // clear listbox
             this.lstNumbers.Items.Clear();
 
-            // loop through the numbers from 0 the 10
-            for (firstNumber = 0; firstNumber <= 10; firstNumber++)
+            // make the letterValue to 65, increment it until its less than or eSqual to 90
+            for (letterValue = 65; letterValue <= 90; letterValue++)
             {
-                // for each of the numbers above, loop through again writing beside it the second number from 0 to 10
-                for (secondNumber = 0; secondNumber <= 10; secondNumber++)
+                // make the alpha value into a hexadecimal
+                letter = Char.ConvertFromUtf32(letterValue);
+
+                // make the lowerLetterValue to 97, increment it until its less than or equal to 122
+                for (lowerLetterValue = 97; lowerLetterValue <= 122; lowerLetterValue++)
                 {
-                    this.lstNumbers.Items.Add(firstNumber + " -> " + secondNumber);
+                    // make the second alpha value into a hexadecimal
+                    lowerLetter = Char.ConvertFromUtf32(lowerLetterValue);
+
+                    this.lstNumbers.Items.Add(letter + " -> " + lowerLetter);
                 }
             }
         }
-
         private void LstNumbers_SelectedIndexChanged(object sender, EventArgs e)
         {
 

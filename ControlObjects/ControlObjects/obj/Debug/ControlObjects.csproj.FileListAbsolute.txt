@@ -1,0 +1,10 @@
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\bin\Debug\ControlObjects.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\bin\Debug\ControlObjects.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\bin\Debug\ControlObjects.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\obj\Debug\ControlObjects.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\obj\Debug\ControlObjects.frmControlObjects.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\obj\Debug\ControlObjects.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\obj\Debug\ControlObjects.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\obj\Debug\ControlObjects.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\obj\Debug\ControlObjects.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\ControlObjects\ControlObjects\obj\Debug\ControlObjects.pdb

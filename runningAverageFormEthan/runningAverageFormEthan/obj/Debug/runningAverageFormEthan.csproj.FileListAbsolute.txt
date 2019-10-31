@@ -8,3 +8,13 @@ N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\r
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.csproj.CoreCompileInputs.cache
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.exe
 N:\Classes\Sem1-Fall2019\ICS3U Programming\LEthan (s256202)\Unit 3 (Decisions)\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\bin\Debug\runningAverageFormEthan.exe.config
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\bin\Debug\runningAverageFormEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\bin\Debug\runningAverageFormEthan.pdb
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.csprojAssemblyReference.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.Properties.Resources.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.frmRunningAverage.resources
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.csproj.GenerateResource.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.exe
+C:\Users\ethan\Documents\GitHub\Unit-3-Decisions-\runningAverageFormEthan\runningAverageFormEthan\obj\Debug\runningAverageFormEthan.pdb

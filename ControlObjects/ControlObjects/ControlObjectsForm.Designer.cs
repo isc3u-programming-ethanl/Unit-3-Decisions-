@@ -35,7 +35,7 @@
             // btnColourChange
             // 
             this.btnColourChange.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnColourChange.Location = new System.Drawing.Point(216, 52);
+            this.btnColourChange.Location = new System.Drawing.Point(181, 55);
             this.btnColourChange.Name = "btnColourChange";
             this.btnColourChange.Size = new System.Drawing.Size(135, 61);
             this.btnColourChange.TabIndex = 0;
@@ -47,7 +47,7 @@
             // 
             this.lblColourChange.AutoSize = true;
             this.lblColourChange.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblColourChange.Location = new System.Drawing.Point(226, 197);
+            this.lblColourChange.Location = new System.Drawing.Point(176, 200);
             this.lblColourChange.Name = "lblColourChange";
             this.lblColourChange.Size = new System.Drawing.Size(156, 25);
             this.lblColourChange.TabIndex = 1;
@@ -58,7 +58,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(524, 450);
             this.Controls.Add(this.lblColourChange);
             this.Controls.Add(this.btnColourChange);
             this.Name = "frmControlObjects";
